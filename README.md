@@ -1,6 +1,6 @@
 # ROBA: Rotation-Only Bundle Adjustment
 
-[Paper](https://arxiv.org/abs/2011.11724), [Supplementary Material](https://seonghun-lee.github.io/pdf/SupplementaryMaterial_RotationOnlyBundleAdjustment.pdf)
+[Paper](https://arxiv.org/abs/2011.11724), [Video](https://www.youtube.com/watch?v=JXnEwXwVKus), [Poster](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/cvpr2021_poster.pdf), [Presentation](https://github.com/seonghun-lee/seonghun-lee.github.io/blob/master/pdf/cvpr2021_presentation.pdf), [Supplementary Material](https://seonghun-lee.github.io/pdf/SupplementaryMaterial_RotationOnlyBundleAdjustment.pdf)
 
 In this repository, we provide the implementation of ROBA. If you use our code, please cite it as follows:
 
